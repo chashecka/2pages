@@ -17,3 +17,19 @@ a {
     width: 210px;
     height: 170px;
 }
+
+header {
+    background-color: rgba(141, 134, 93, 0.425);
+
+}
+
+img {
+    height: 300px;
+    padding: 10px;
+    weight: 300px; 
+}
+
+.ll{
+    height: 100px;
+    weight: 100px;   
+}
